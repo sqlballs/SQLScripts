@@ -28,7 +28,7 @@ df = pd.read_sql(query, cnxn)
 #print(df.head(10))
 
 os.environ["OPENAI_API_TYPE"] = "azure"
-os.environ["OPENAI_API_KEY"] = "c300c488dd4e47dfbcb8ad1baba40ac0"
+os.environ["OPENAI_API_KEY"] = ""
 os.environ["OPENAI_API_BASE"] = "https://bballazureopenai.openai.azure.com/"
 os.environ["OPENAI_API_VERSION"] = "2022-12-01"
 
