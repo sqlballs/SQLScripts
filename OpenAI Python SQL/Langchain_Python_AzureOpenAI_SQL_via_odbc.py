@@ -29,7 +29,7 @@ df = pd.read_sql(query, cnxn)
 
 os.environ["OPENAI_API_TYPE"] = "azure"
 os.environ["OPENAI_API_KEY"] = ""
-os.environ["OPENAI_API_BASE"] = "https://bballazureopenai.openai.azure.com/"
+os.environ["OPENAI_API_BASE"] = ""
 os.environ["OPENAI_API_VERSION"] = "2022-12-01"
 
 llm = AzureOpenAI(deployment_name="", model_name="",model_kwargs={"api_type": "azure", "api_version": "2022-12-01"}) 
