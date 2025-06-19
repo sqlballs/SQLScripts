@@ -14,7 +14,7 @@ This notebook was created by **Bradley Ball**, a Sr. Cloud Solution Architect an
 
 You can watch the full walkthrough and explanation of this notebook on YouTube:
 
-[![Find Status of Jobs - Tales from the Field](http://img.youtube.com/vi/iTI2HUI2HUWLvVI)
+<p><a href="https://www.youtube.com/watch?v=TSTeoeCNh7c"><img src="https://img.youtube.com/vi/TSTeoeCNh7c/0.jpg" height = 200></a> 
 
 ## 📂 Contents
 
