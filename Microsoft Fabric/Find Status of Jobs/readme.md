@@ -4,7 +4,7 @@ This repository contains a Microsoft Fabric notebook that demonstrates how to us
 
 ## 🔍 Overview
 
-The notebook leverages the https://learn.microsoft.com/en-us/rest/api/fabric/core/job-scheduler/list-item-job-instances?tabs=HTTP#code-try-0 to retrieve job execution details. This is particularly useful for monitoring and diagnostics in Fabric-based solutions.
+The notebook leverages the https://learn.microsoft.com/en-us/rest/api/fabric/core/job-scheduler/list-item-job-instances to retrieve job execution details. This is particularly useful for monitoring and diagnostics in Fabric-based solutions.
 
 ## 📓 Notebook Author
 
@@ -35,6 +35,6 @@ You can watch the full walkthrough and explanation of this notebook on YouTube:
 
 ## 📄 Documentation
 For more details on the API used, refer to the official Microsoft documentation:  
-👉 [List Item Job Instances API](https://learn.microsoft.com/en-us/rest/api/fabric/core/job-scheduler/list-item-job-instances?tabs=d with ❤️ by Bradley Ball  
+👉 ([List Item Job Instances API](https://learn.microsoft.com/en-us/rest/api/fabric/core/job-scheduler/list-item-job-instances) with ❤️ by Bradley Ball)  
 > https://www.youtube.com/@TalesFromTheField
 
